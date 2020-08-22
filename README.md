@@ -1,1 +1,2 @@
-# ZOMBIE-VIRUS-THE-4-STAGES
+# p5.play-boilerplate
+Boiler plate for p5.play

@@ -1,0 +1,8 @@
+class NormalZombie{
+    constructor(){
+         
+    }
+    display(){
+
+    }
+}
